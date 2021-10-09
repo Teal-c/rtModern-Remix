@@ -4,8 +4,6 @@
 
 ![alt text](https://raw.githubusercontent.com/Teal-c/rtModern-Remix/main/captures/capture-default.png "demo")
 
-![alt text](https://raw.githubusercontent.com/Teal-c/rtModern-Remix/main/captures/captures-light.png "demo")
-
 #### Installation du thème
 
 ```
@@ -23,6 +21,44 @@ chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Remi
 
 ```
 
+#### Installation du thème Plex
+
+![alt text](https://raw.githubusercontent.com/Teal-c/rtModern-Remix/main/captures/captures-plex.png "demo")
+
+```
+cd /var/www/rutorrent/plugins/theme/themes
+
+```
+
+```
+git clone git://github.com/Teal-c/rtModern-Remix.git rtModern-Plex-v2
+
+```
+```
+rm rtModern-Plex-v2/custom.css
+cp rtModern-Plex-v2/examples/plex.css rtModern-Plex-v2/custom.css
+
+```
+
+#### Installation du thème Light-Pink
+
+![alt text](https://raw.githubusercontent.com/Teal-c/rtModern-Remix/main/captures/captures-light.png "demo")
+
+```
+cd /var/www/rutorrent/plugins/theme/themes
+
+```
+
+```
+git clone git://github.com/Teal-c/rtModern-Remix.git rtModern-LightPink
+
+```
+```
+rm rtModern-LightPink/custom.css
+cp rtModern-LightPink/examples/light-pink.css rtModern-LightPink/custom.css
+
+```
+
 ### Personnaliser les couleurs
 
 Tout est dans le fichier custom.css, avec des exemples dans le dossier "examples".
@@ -34,7 +70,7 @@ URL : https://github.com/Teal-c/rtModern
 
 ---
 
-### Script d'installation ruTorrent Bonobox 
+### Script d'installation ruTorrent Bonobox
 
 https://github.com/exrat/rutorrent-bonobox  
 
