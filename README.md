@@ -23,7 +23,7 @@ chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Remi
 
 #### Installation du thème Plex
 
-![alt text](https://raw.githubusercontent.com/Teal-c/rtModern-Remix/main/captures/captures-plex.png "demo")
+![alt text](https://github.com/Teal-c/rtModern-Remix/blob/main/captures/capure-plex.png "demo")
 
 ```
 cd /var/www/rutorrent/plugins/theme/themes
