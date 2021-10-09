@@ -1,0 +1,82 @@
+:root {
+    --color-button:#1173b4;
+    --color-button-hover:#008fe2;
+    --color-button-text:#fff;
+
+    --color-menu-top-image:linear-gradient(154deg,#008fe2 0,#00b29c 100%);
+    --color-border-top:#181a24;
+    --color-box-border:#181a24;
+
+    --color-sidebar-image:linear-gradient(154deg,#181a24 0,#07080b 100%);
+    --color-sidebar-text:#fff;
+    --color-sidebar-text-info:#fff;
+    --color-sidebar-text-active:#00b29c;
+    --color-sidebar-title:#1f212d;
+    --color-sidebar-title-text:#fff;
+    --color-sidebar-title-border:#008fe2;
+
+    --color-details-head:rgba(0,0,0,0.2);
+    --color-details-head-text:#fff;
+    --color-details:#1f212d;
+    --color-details-text:#fff;
+    --color-details-text-hover:#008fe2;
+    --color-details-button:#00b29c;
+    --color-details-button-text:#fff;
+    --color-details-button-hover:#008fe2;
+    --color-details-tabbar-text:#fff;
+    --color-details-list-odd:rgb(0,0,0,0.2);
+    --color-details-list-even:rgb(0,0,0,0.1);
+    --color-details-list-border-head:#2f3242;
+
+    --color-torrents-list-head:rgba(0,0,0,0.7);
+    --color-torrents-list-head-text:#fff;
+    --color-torrents-list:#2f3242;
+    --color-torrents-list-text:#fff;
+    --color-torrents-list-percent:#1c1f25;
+    --color-torrents-list-percent-text:#00b29c;
+    --color-torrents-list-border-head:#2f3242;
+    --color-torrents-list-active:#074360;
+    --color-torrents-list-hover:#0f5374;
+    --color-torrents-list-odd:rgb(0,0,0,0.2);
+    --color-torrents-list-even:rgb(0,0,0,0.1);
+
+    --color-statusbar: #07080b;
+    --color-statusbar-text: #fff;
+    --color-statusbar-text-speed: #60b30e;
+
+    --color-modal:#181a24;
+    --color-modal-text:#fff;
+    --color-modal-sidebar:#1f212d;
+    --color-modal-sidebar-text:#fff;
+    --color-modal-sidebar-text-hover:#1173b4;
+    --color-modal-top:#00b29c;
+    --color-modal-top-text:#fff;
+    --color-modal-fieldset:#2f3242;
+
+    --color-contextual-menu:#00b29c;
+    --color-contextual-menu-text:#fff;
+    --color-contextual-menu-bg-hover:#1173b4;
+    --color-contextual-menu-text-hover:#fff;
+
+    --color-menu-top-input:#09736d;
+    --color-menu-top-input-text:#fff;
+    --color-menu-top-input-disable:#1c1f25;
+    --color-input:#09736d;
+    --color-input-text:#fff;
+    --color-input-disable:#1c1f25;
+
+    --color-scrollbar:#00b29c;
+    --color-scrollbar-hover:#1173b4;
+
+    --color-meter-disk-value:#1173b4;
+    --color-meter-disk-value-text:#fff;
+
+    --radius-sidebar-title:10px;
+    --radius-meter-value:10px;
+    --radius-details-button:10px;
+
+    --color-shadow: rgba(0,0,0,0.6);
+    --color-dark: #000;
+    --color-red: #bf0000;
+    --color-green: #60b30e;
+}
