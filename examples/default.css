@@ -2,6 +2,7 @@
     --color-button:#1173b4;
     --color-button-hover:#008fe2;
     --color-button-text:#fff;
+    --color-button-text-hover:#fff;
 
     --color-menu-top-image:linear-gradient(154deg,#008fe2 0,#00b29c 100%);
     --color-border-top:#181a24;
@@ -19,10 +20,10 @@
     --color-details-head-text:#fff;
     --color-details:#1f212d;
     --color-details-text:#fff;
-    --color-details-text-hover:#008fe2;
     --color-details-button:#00b29c;
     --color-details-button-text:#fff;
     --color-details-button-hover:#008fe2;
+    --color-details-button-text-hover:#fff;
     --color-details-tabbar-text:#fff;
     --color-details-list-odd:rgb(0,0,0,0.2);
     --color-details-list-even:rgb(0,0,0,0.1);
