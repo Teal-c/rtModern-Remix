@@ -1,10 +1,8 @@
-# Thème ruTorrent
-
-## rtModern-Remix
+# rtModern-Remix - Thème ruTorrent
 
 ![alt text](https://raw.githubusercontent.com/Teal-c/rtModern-Remix/main/captures/capture-default.png "demo")
 
-#### Installation du thème
+## Installation du thème : Remix
 
 ```
 cd /var/www/rutorrent/plugins/theme/themes
@@ -21,7 +19,7 @@ chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Remi
 
 ```
 
-#### Installation du thème Plex
+## Installation du thème : Plex
 
 ![alt text](https://github.com/Teal-c/rtModern-Remix/blob/main/captures/capure-plex.png "demo")
 
@@ -40,7 +38,7 @@ cp rtModern-Plex-v2/examples/plex.css rtModern-Plex-v2/custom.css
 
 ```
 
-#### Installation du thème Light-Pink
+## Installation du thème : Light-Pink
 
 ![alt text](https://raw.githubusercontent.com/Teal-c/rtModern-Remix/main/captures/captures-light.png "demo")
 
