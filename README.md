@@ -38,6 +38,11 @@ cp rtModern-Plex-v2/examples/plex.css rtModern-Plex-v2/custom.css
 
 ```
 
+```
+chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Plex-v2
+
+```
+
 ## Installation du thème : Light-Pink
 
 ![alt text](https://raw.githubusercontent.com/Teal-c/rtModern-Remix/main/captures/captures-light.png "demo")
@@ -54,6 +59,11 @@ git clone git://github.com/Teal-c/rtModern-Remix.git rtModern-LightPink
 ```
 rm rtModern-LightPink/custom.css
 cp rtModern-LightPink/examples/light-pink.css rtModern-LightPink/custom.css
+
+```
+
+```
+chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-LightPink
 
 ```
 
