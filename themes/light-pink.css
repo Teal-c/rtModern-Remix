@@ -13,7 +13,7 @@
     --color-sidebar-text-info:#222;
     --color-sidebar-text-active:#8400b3;
     --color-sidebar-title:#e2e4eb;
-    --color-sidebar-title-text:#222;
+    --color-sidebar-title-text:#dd00e2;
     --color-sidebar-title-border:#dd00e2;
 
     --color-details-head:#e2e4eb;
@@ -33,8 +33,8 @@
     --color-torrents-list-head-text:#222;
     --color-torrents-list:#bfc3c9;
     --color-torrents-list-text:#222;
-    --color-torrents-list-percent:#8400b3;
-    --color-torrents-list-percent-text:#fff;
+    --color-torrents-list-percent:#e2e4eb;
+    --color-torrents-list-percent-text:#8400b3;
     --color-torrents-list-border-head:#b2b3b5;
     --color-torrents-list-active:#caa1d9;
     --color-torrents-list-hover:#e7ace8;
