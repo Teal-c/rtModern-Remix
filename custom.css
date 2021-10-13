@@ -1,80 +1,80 @@
 :root {
-    --color-button:#037ba3;
+    --color-button:#1173b4;
+    --color-button-hover:#008fe2;
     --color-button-text:#fff;
-    --color-button-hover:#03a6db;
     --color-button-text-hover:#fff;
 
-    --color-menu-top-image:linear-gradient(90deg,#037ba3 0,#3E2247 70%);
-    --color-border-top:#171d29;
-    --color-box-border:#171d29;
+    --color-menu-top:linear-gradient(154deg,#008fe2 0,#00b29c 100%);
+    --color-border-top:#181a24;
+    --color-box-border:#181a24;
 
-    --color-sidebar:#171d29;
+    --color-sidebar:linear-gradient(154deg,#181a24 0,#07080b 100%);
     --color-sidebar-text:#fff;
     --color-sidebar-text-info:#fff;
-    --color-sidebar-text-active:#037ba3;
-    --color-sidebar-title:#1d2534;
+    --color-sidebar-text-active:#00b29c;
+    --color-sidebar-title:#1f212d;
     --color-sidebar-title-text:#fff;
-    --color-sidebar-title-border:#171d29;
+    --color-sidebar-title-border:#008fe2;
 
-    --color-details-head:#171d29;
+    --color-details-head:rgba(0,0,0,0.2);
     --color-details-head-text:#fff;
-    --color-details:#141924;
+    --color-details:#1f212d;
     --color-details-text:#fff;
-    --color-details-button:#037ba3;
+    --color-details-button:#00b29c;
     --color-details-button-text:#fff;
-    --color-details-button-hover:#03a6db;
+    --color-details-button-hover:#008fe2;
     --color-details-button-text-hover:#fff;
     --color-details-tabbar-text:#fff;
-    --color-details-list-odd:rgba(255,255,255,0.01);
-    --color-details-list-even:rgba(255,255,255,0.04);
-    --color-details-list-border-head:#171d29;
+    --color-details-list-odd:rgb(0,0,0,0.2);
+    --color-details-list-even:rgb(0,0,0,0.1);
+    --color-details-list-border-head:#2f3242;
 
-    --color-torrents-list-head:#171d29;
+    --color-torrents-list-head:rgba(0,0,0,0.7);
     --color-torrents-list-head-text:#fff;
-    --color-torrents-list:#1d2534;
+    --color-torrents-list:#2f3242;
     --color-torrents-list-text:#fff;
-    --color-torrents-list-percent:#141924;
-    --color-torrents-list-percent-text:#037ba3;
-    --color-torrents-list-border-head:#171d29;
-    --color-torrents-list-active:#3E2247;
-    --color-torrents-list-hover:#43254d;
-    --color-torrents-list-odd:rgba(255,255,255,0.01);
-    --color-torrents-list-even:rgba(255,255,255,0.04);
+    --color-torrents-list-percent:#1c1f25;
+    --color-torrents-list-percent-text:#00b29c;
+    --color-torrents-list-border-head:#2f3242;
+    --color-torrents-list-active:#074360;
+    --color-torrents-list-hover:#0f5374;
+    --color-torrents-list-odd:rgb(0,0,0,0.2);
+    --color-torrents-list-even:rgb(0,0,0,0.1);
 
-    --color-statusbar: #1f2730;
+    --color-statusbar: #07080b;
     --color-statusbar-text: #fff;
     --color-statusbar-text-speed: #60b30e;
 
-    --color-modal:#141924;
+    --color-modal:#181a24;
     --color-modal-text:#fff;
-    --color-modal-sidebar:#171d29;
+    --color-modal-sidebar:#1f212d;
     --color-modal-sidebar-text:#fff;
-    --color-modal-sidebar-text-hover:#03a6db;
-    --color-modal-top:#037ba3;
+    --color-modal-sidebar-text-hover:#1173b4;
+    --color-modal-top:#00b29c;
     --color-modal-top-text:#fff;
-    --color-modal-fieldset:#171d29;
+    --color-modal-fieldset:#2f3242;
 
-    --color-contextual-menu:#171d29;
+    --color-contextual-menu:#00b29c;
     --color-contextual-menu-text:#fff;
-    --color-contextual-menu-bg-hover:#037ba3;
+    --color-contextual-menu-bg-hover:#1173b4;
     --color-contextual-menu-text-hover:#fff;
 
-    --color-menu-top-input:#34414e;
+    --color-menu-top-input:#09736d;
     --color-menu-top-input-text:#fff;
-    --color-menu-top-input-disable:#171d29;
-    --color-input:#465564;
+    --color-menu-top-input-disable:#1c1f25;
+    --color-input:#09736d;
     --color-input-text:#fff;
-    --color-input-disable:#171d29;
+    --color-input-disable:#1c1f25;
 
-    --color-scrollbar:#037ba3;
-    --color-scrollbar-hover:#037ba3;
+    --color-scrollbar:#00b29c;
+    --color-scrollbar-hover:#1173b4;
 
-    --color-meter-disk-value:#3E2247;
+    --color-meter-disk-value:#1173b4;
     --color-meter-disk-value-text:#fff;
 
-    --radius-sidebar-title:20px;
-    --radius-meter-value:20px;
-    --radius-details-button:30px;
+    --radius-sidebar-title:10px;
+    --radius-meter-value:10px;
+    --radius-details-button:10px;
 
     --color-shadow: rgba(0,0,0,0.6);
     --color-dark: #000;
