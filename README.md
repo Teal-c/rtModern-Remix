@@ -39,7 +39,7 @@ chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Plex
 
 ## Installation du thème : Jellyfin
 
-![alt text](https://github.com/Teal-c/rtModern-Jellyfin/blob/main/captures/capure-jellyfin.png "demo")
+![alt text](https://github.com/Teal-c/rtModern-Remix/blob/main/captures/capture-jellyfin.png "demo")
 
 ```
 cd /var/www/rutorrent/plugins/theme/themes
