@@ -2,7 +2,7 @@
 
 ## Installation du thème : Remix
 
-![alt text](https://raw.githubusercontent.com/Teal-c/rtModern-Remix/main/captures/capture-default.png "demo")
+![alt text](https://raw.githubusercontent.com/Teal-c/rtModern-Remix/main/captures/capture-remix.png "demo")
 
 ```
 cd /var/www/rutorrent/plugins/theme/themes
