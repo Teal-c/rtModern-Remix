@@ -8,7 +8,7 @@
     --color-border-top:#313b46;
     --color-box-border:#313b46;
 
-    --color-sidebar-image:linear-gradient(154deg,#313b46 0,#313b46 100%);
+    --color-sidebar:linear-gradient(154deg,#313b46 0,#313b46 100%);
     --color-sidebar-text:#fff;
     --color-sidebar-text-info:#fff;
     --color-sidebar-text-active:#cc7b19;
@@ -25,8 +25,8 @@
     --color-details-button-hover:#e59029;
     --color-details-button-text-hover:#fff;
     --color-details-tabbar-text:#fff;
-    --color-details-list-odd:rgb(255,255,255,0.01);
-    --color-details-list-even:rgb(255,255,255,0.04);
+    --color-details-list-odd:rgba(255,255,255,0.01);
+    --color-details-list-even:rgba(255,255,255,0.04);
     --color-details-list-border-head:#313b46;
 
     --color-torrents-list-head:#27313c;
@@ -36,10 +36,10 @@
     --color-torrents-list-percent:#242b33;
     --color-torrents-list-percent-text:#cc7b19;
     --color-torrents-list-border-head:#313b46;
-    --color-torrents-list-active:rgb(0,0,0,0.15);
-    --color-torrents-list-hover:rgb(0,0,0,0.1);
-    --color-torrents-list-odd:rgb(255,255,255,0.01);
-    --color-torrents-list-even:rgb(255,255,255,0.04);
+    --color-torrents-list-active:rgba(42,50,60,1);
+    --color-torrents-list-hover:rgba(45,54,65,1);
+    --color-torrents-list-odd:rgba(255,255,255,0.01);
+    --color-torrents-list-even:rgba(255,255,255,0.04);
 
     --color-statusbar: #1f2730;
     --color-statusbar-text: #fff;
@@ -62,7 +62,7 @@
     --color-menu-top-input:#34414e;
     --color-menu-top-input-text:#fff;
     --color-menu-top-input-disable:#27313c;
-    --color-input:#34414e;
+    --color-input:#465564;
     --color-input-text:#fff;
     --color-input-disable:#27313c;
 
