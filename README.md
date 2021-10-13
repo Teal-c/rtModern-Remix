@@ -46,7 +46,6 @@ cd /var/www/rutorrent/plugins/theme/themes
 
 ```
 git clone git://github.com/Teal-c/rtModern-Remix.git rtModern-Jellyfin-v2
-
 ```
 ```
 rm rtModern-Jellyfin-v2/custom.css
