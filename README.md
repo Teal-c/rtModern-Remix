@@ -1,6 +1,6 @@
-# rtModern-Remix - Thème ruTorrent
+# rtModern - ruTorrent themes
 
-## Installation du thème : Remix
+## rtModern-Remix
 
 ![alt text](https://raw.githubusercontent.com/Teal-c/rtModern-Remix/main/captures/capture-remix.png "demo")
 
@@ -16,7 +16,7 @@ git clone git://github.com/Teal-c/rtModern-Remix.git rtModern-Remix
 chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Remix
 ```
 
-## Installation du thème : Plex
+## rtModern-Plex
 
 ![alt text](https://github.com/Teal-c/rtModern-Remix/blob/main/captures/capure-plex.png "demo")
 
@@ -37,7 +37,7 @@ cp rtModern-Plex-v2/themes/plex.css rtModern-Plex-v2/custom.css
 chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Plex-v2
 ```
 
-## Installation du thème : Jellyfin
+## rtModern-Jellyfin
 
 ![alt text](https://github.com/Teal-c/rtModern-Remix/blob/main/captures/capture-jellyfin.png "demo")
 
@@ -58,7 +58,7 @@ cp rtModern-Jellyfin/themes/jellyfin.css rtModern-Jellyfin/custom.css
 chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Jellyfin
 ```
 
-## Installation du thème : Light-Pink
+## rtModern-LightPink
 
 ![alt text](https://raw.githubusercontent.com/Teal-c/rtModern-Remix/main/captures/captures-light.png "demo")
 
@@ -78,18 +78,18 @@ cp rtModern-LightPink/themes/light-pink.css rtModern-LightPink/custom.css
 chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-LightPink
 ```
 
-### Personnaliser les couleurs
+### Customize the colors
 
-Tout est dans le fichier custom.css, avec des exemples dans le dossier "themes".
+All the color code is in custom.css, with examples in the "themes" folder.
 
 
-### Les autres thèmes
+### The old themes
 
 URL : https://github.com/Teal-c/rtModern
 
 ---
 
-### Script d'installation ruTorrent Bonobox
+### ruTorrent Bonobox installation script
 
 https://github.com/exrat/rutorrent-bonobox  
 
