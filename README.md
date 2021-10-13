@@ -46,16 +46,16 @@ cd /var/www/rutorrent/plugins/theme/themes
 ```
 
 ```
-git clone git://github.com/Teal-c/rtModern-Remix.git rtModern-Jellyfin
+git clone git://github.com/Teal-c/rtModern-Remix.git rtModern-Jellyfin-v2
 
 ```
 ```
-rm rtModern-Jellyfin/custom.css
-cp rtModern-Jellyfin/themes/jellyfin.css rtModern-Jellyfin/custom.css
+rm rtModern-Jellyfin-v2/custom.css
+cp rtModern-Jellyfin-v2/themes/jellyfin.css rtModern-Jellyfin-v2/custom.css
 ```
 
 ```
-chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Jellyfin
+chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Jellyfin-v2
 ```
 
 ## rtModern-LightPink
