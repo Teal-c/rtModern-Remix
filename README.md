@@ -26,7 +26,6 @@ cd /var/www/rutorrent/plugins/theme/themes
 
 ```
 git clone git://github.com/Teal-c/rtModern-Remix.git rtModern-Plex-v2
-
 ```
 ```
 rm rtModern-Plex-v2/custom.css
