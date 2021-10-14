@@ -1,13 +1,11 @@
 :root {
+    /* Boutons */
     --color-button:#1173b4;
     --color-button-hover:#008fe2;
     --color-button-text:#fff;
     --color-button-text-hover:#fff;
 
-    --color-menu-top:linear-gradient(154deg,#008fe2 0,#00b29c 100%);
-    --color-border-top:#181a24;
-    --color-box-border:#181a24;
-
+    /* Sidebar */
     --color-sidebar:linear-gradient(154deg,#181a24 0,#07080b 100%);
     --color-sidebar-text:#fff;
     --color-sidebar-text-info:#fff;
@@ -16,6 +14,8 @@
     --color-sidebar-title-text:#fff;
     --color-sidebar-title-border:#008fe2;
 
+    /* Bottom details */
+    --padding-details-list:9px;
     --color-details-head:rgba(0,0,0,0.2);
     --color-details-head-text:#fff;
     --color-details:#1f212d;
@@ -29,6 +29,8 @@
     --color-details-list-even:rgb(0,0,0,0.1);
     --color-details-list-border-head:#2f3242;
 
+    /* Torrents List */
+    --padding-torrents-list:12px;
     --color-torrents-list-head:rgba(0,0,0,0.7);
     --color-torrents-list-head-text:#fff;
     --color-torrents-list:#2f3242;
@@ -41,10 +43,14 @@
     --color-torrents-list-odd:rgb(0,0,0,0.2);
     --color-torrents-list-even:rgb(0,0,0,0.1);
 
+    /* Status Bar */
     --color-statusbar: #07080b;
     --color-statusbar-text: #fff;
     --color-statusbar-text-speed: #60b30e;
+    --color-meter-disk-value:#1173b4;
+    --color-meter-disk-value-text:#fff;
 
+    /* Modal */
     --color-modal:#181a24;
     --color-modal-text:#fff;
     --color-modal-sidebar:#1f212d;
@@ -54,11 +60,14 @@
     --color-modal-top-text:#fff;
     --color-modal-fieldset:#2f3242;
 
+    /* Contextual Menu */
     --color-contextual-menu:#00b29c;
     --color-contextual-menu-text:#fff;
     --color-contextual-menu-bg-hover:#1173b4;
     --color-contextual-menu-text-hover:#fff;
 
+    /* Top Menu */
+    --color-menu-top:linear-gradient(154deg,#008fe2 0,#00b29c 100%);
     --color-menu-top-input:#09736d;
     --color-menu-top-input-text:#fff;
     --color-menu-top-input-disable:#1c1f25;
@@ -66,18 +75,20 @@
     --color-input-text:#fff;
     --color-input-disable:#1c1f25;
 
+    /* Scrollbar */
     --color-scrollbar:#00b29c;
     --color-scrollbar-hover:#1173b4;
 
-    --color-meter-disk-value:#1173b4;
-    --color-meter-disk-value-text:#fff;
-
+    /* Radius */
     --radius-sidebar-title:10px;
     --radius-meter-value:10px;
     --radius-details-button:10px;
 
+    /* General */
     --color-shadow: rgba(0,0,0,0.6);
     --color-dark: #000;
     --color-red: #bf0000;
     --color-green: #60b30e;
+    --color-border-top:#181a24;
+    --color-box-border:#181a24;
 }
