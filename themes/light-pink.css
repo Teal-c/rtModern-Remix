@@ -13,6 +13,7 @@
     --color-sidebar-title:#e2e4eb;
     --color-sidebar-title-text:#dd00e2;
     --color-sidebar-title-border:#dd00e2;
+    --color-sidebar-count:#2f3242;
 
     /* Bottom details */
     --padding-details-list:9px;
@@ -88,6 +89,7 @@
     --color-green: #60b30e;
     --color-border-top:#cfd1d7;
     --color-box-border:#e2e4eb;
+    --color-box-border-line:#edeff5;
     --color-input:#edeff5;
     --color-input-text:#222;
     --color-input-disable:#9a9a9a;
