@@ -13,6 +13,7 @@
     --color-sidebar-title:#1f212d;
     --color-sidebar-title-text:#fff;
     --color-sidebar-title-border:#008fe2;
+    --color-sidebar-count:#2f3242;
 
     /* Bottom details */
     --padding-details-list:9px;
@@ -91,4 +92,5 @@
     --color-green: #60b30e;
     --color-border-top:#181a24;
     --color-box-border:#181a24;
+    --color-box-border-line:#2f3242;
 }
