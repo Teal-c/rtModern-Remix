@@ -2,8 +2,8 @@
 
  . | ruTorrent | version
 :---: | :---: | :---
-:heavy_check_mark: | [exrat/rutorrent-bonobox](https://github.com/exrat/rutorrent-bonobox) | 2022/04/03
 :heavy_check_mark: | [Novik/ruTorrent](https://github.com/Novik/ruTorrent) | v3.10, v4.0-beta.1
+:heavy_check_mark: | [exrat/rutorrent-bonobox](https://github.com/exrat/rutorrent-bonobox) | 2022/04/03
 :heavy_check_mark: | [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) | 3.10-0.9.8-0.13.8-r17
 
 
@@ -99,3 +99,6 @@ https://mondedie.fr/d/5399-script-installation-automatique-rutorrent-nginx
 ### Installation on crazymax/docker-rtorrent-rutorrent docker image 
 
 https://www.forum-nas.fr/threads/tuto-changer-le-th%C3%A8me-de-rutorrent.16968/
+
+### Install ruTorrent on Debian 11 (nginx and php-fpm) 
+https://mondedie.fr/d/11708-tuto-installer-rutorrent-sur-debian-11-nginx-php-fpm
