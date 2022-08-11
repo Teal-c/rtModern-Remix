@@ -16,7 +16,7 @@ cd /var/www/rutorrent/plugins/theme/themes
 ```
 
 ```
-git clone git://github.com/Teal-c/rtModern-Remix.git rtModern-Remix
+git clone https://github.com/Teal-c/rtModern-Remix.git rtModern-Remix
 ```
 
 ```
@@ -32,7 +32,7 @@ cd /var/www/rutorrent/plugins/theme/themes
 ```
 
 ```
-git clone git://github.com/Teal-c/rtModern-Remix.git rtModern-Plex-v2
+git clone https://github.com/Teal-c/rtModern-Remix.git rtModern-Plex-v2
 ```
 ```
 rm rtModern-Plex-v2/custom.css
@@ -52,7 +52,7 @@ cd /var/www/rutorrent/plugins/theme/themes
 ```
 
 ```
-git clone git://github.com/Teal-c/rtModern-Remix.git rtModern-Jellyfin-v2
+git clone https://github.com/Teal-c/rtModern-Remix.git rtModern-Jellyfin-v2
 ```
 ```
 rm rtModern-Jellyfin-v2/custom.css
@@ -72,7 +72,7 @@ cd /var/www/rutorrent/plugins/theme/themes
 ```
 
 ```
-git clone git://github.com/Teal-c/rtModern-Remix.git rtModern-LightPink
+git clone https://github.com/Teal-c/rtModern-Remix.git rtModern-LightPink
 ```
 ```
 rm rtModern-LightPink/custom.css
