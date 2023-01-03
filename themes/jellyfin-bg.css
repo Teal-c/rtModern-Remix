@@ -94,6 +94,6 @@
     --color-input-text:#fff;
     --color-input-disable:rgba(0,0,0,0.4);
 }
-body, html { background-color:transparent!important;background-image:url('https://raw.githubusercontent.com/Teal-c/rtModern-Jellyfin/master/images/bg.jpg')!important;background-position: center;background-size: cover; }
+body, html body { background-color:transparent!important;background-image:url('https://raw.githubusercontent.com/Teal-c/rtModern-Jellyfin/master/images/bg.jpg')!important;background-position: center;background-size: cover; }
 table#maincont { background-image:url('https://raw.githubusercontent.com/Teal-c/rtModern-Jellyfin/master/images/bg.jpg');background-position: center;background-size: cover; }
 .catpanel { background-image:none!important; }
