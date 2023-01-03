@@ -77,7 +77,7 @@ git clone https://github.com/Teal-c/rtModern-Remix.git rtModern-Jellyfin-v2-bg
 ```
 ```
 rm rtModern-Jellyfin-v2-bg/custom.css
-cp rtModern-Jellyfin-v2-bg/themes/jellyfin.css rtModern-Jellyfin-v2-bg/custom.css
+cp rtModern-Jellyfin-v2-bg/themes/jellyfin-bg.css rtModern-Jellyfin-v2-bg/custom.css
 ```
 
 ```
