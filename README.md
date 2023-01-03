@@ -64,6 +64,26 @@ cp rtModern-Jellyfin-v2/themes/jellyfin.css rtModern-Jellyfin-v2/custom.css
 chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Jellyfin-v2
 ```
 
+## rtModern-Jellyfin-bg
+
+![alt text](https://github.com/Teal-c/rtModern-Remix/blob/main/captures/capture-jellyfin-bg.jpg "demo")
+
+```
+cd /var/www/rutorrent/plugins/theme/themes
+```
+
+```
+git clone https://github.com/Teal-c/rtModern-Remix.git rtModern-Jellyfin-v2-bg
+```
+```
+rm rtModern-Jellyfin-v2-bg/custom.css
+cp rtModern-Jellyfin-v2-bg/themes/jellyfin.css rtModern-Jellyfin-v2-bg/custom.css
+```
+
+```
+chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Jellyfin-v2-bg
+```
+
 ## rtModern-LightPink
 
 ![alt text](https://raw.githubusercontent.com/Teal-c/rtModern-Remix/main/captures/captures-light.png "demo")
@@ -93,9 +113,9 @@ All the color code is in custom.css, with examples in the "themes" folder.
 
 ### ruTorrent Bonobox installation script
 
-https://github.com/exrat/rutorrent-bonobox  
+https://hub.docker.com/r/mondedie/rutorrent
 
-https://mondedie.fr/d/5399-script-installation-automatique-rutorrent-nginx  
+https://mondedie.fr/d/11214-tuto-installer-limage-docker-rutorrent-de-mondediefr
 
 ### Installation on crazymax/docker-rtorrent-rutorrent docker image 
 
