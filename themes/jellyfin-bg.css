@@ -46,6 +46,7 @@
 
     /* Status Bar */
     --color-sidebar:rgba(0,0,0,0.6);
+    --color-statusbar:rgba(0,0,0,0.7);
     --color-statusbar-text: #fff;
     --color-statusbar-text-speed: #60b30e;
     --color-meter-disk-value:#3E2247;
