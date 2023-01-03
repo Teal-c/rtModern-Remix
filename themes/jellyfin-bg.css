@@ -1,0 +1,99 @@
+:root {
+    /* Buttons */
+    --color-button:#037ba3;
+    --color-button-text:#fff;
+    --color-button-hover:#03a6db;
+    --color-button-text-hover:#fff;
+
+    /* Sidebar */
+    --color-sidebar:rgba(0,0,0,0.4);
+    --color-sidebar-text:#fff;
+    --color-sidebar-text-info:#fff;
+    --color-sidebar-text-active:#037ba3;
+    --color-sidebar-title:rgba(0,0,0,0.4);
+    --color-sidebar-title-text:#fff;
+    --color-sidebar-title-border:rgba(0,0,0,0.4);
+    --color-sidebar-count:#242e40;
+
+    /* Bottom details */
+    --padding-details-list:9px;
+    --color-details-head:rgba(0,0,0,0.6);
+    --color-details-head-text:#fff;
+    --color-details:rgba(0,0,0,0.4);
+    --color-details-text:#fff;
+    --color-details-button:#037ba3;
+    --color-details-button-text:#fff;
+    --color-details-button-hover:#03a6db;
+    --color-details-button-text-hover:#fff;
+    --color-details-tabbar-text:#fff;
+    --color-details-list-odd:rgba(255,255,255,0.01);
+    --color-details-list-even:rgba(255,255,255,0.04);
+    --color-details-list-border-head:rgba(0,0,0,0.6);
+
+    /* Torrents List */
+    --padding-torrents-list:12px;
+    --color-torrents-list-head:rgba(0,0,0,0.6);
+    --color-torrents-list-head-text:#fff;
+    --color-torrents-list:rgba(0,0,0,0.4);
+    --color-torrents-list-text:#fff;
+    --color-torrents-list-percent:rgba(0,0,0,0.6);
+    --color-torrents-list-percent-text:#037ba3;
+    --color-torrents-list-border-head:rgba(0,0,0,0.6);
+    --color-torrents-list-active:#3E2247;
+    --color-torrents-list-hover:#43254d;
+    --color-torrents-list-odd:rgba(255,255,255,0.01);
+    --color-torrents-list-even:rgba(255,255,255,0.04);
+
+    /* Status Bar */
+    --color-sidebar:rgba(0,0,0,0.6);
+    --color-statusbar-text: #fff;
+    --color-statusbar-text-speed: #60b30e;
+    --color-meter-disk-value:#3E2247;
+    --color-meter-disk-value-text:#fff;
+
+    /* Modal */
+    --color-modal:rgba(0,0,0,0.6);
+    --color-modal-text:#fff;
+    --color-modal-sidebar:rgba(0,0,0,0.4);
+    --color-modal-sidebar-text:#fff;
+    --color-modal-sidebar-text-hover:#03a6db;
+    --color-modal-top:#037ba3;
+    --color-modal-top-text:#fff;
+    --color-modal-fieldset:rgba(0,0,0,0.4);
+
+    /* Contextual Menu */
+    --color-contextual-menu:rgba(0,0,0,0.4);
+    --color-contextual-menu-text:#fff;
+    --color-contextual-menu-bg-hover:#037ba3;
+    --color-contextual-menu-text-hover:#fff;
+
+    /* Top Menu */
+    --color-menu-top:linear-gradient(90deg,rgba(3, 123, 163,0.6) 0,rgba(62, 34, 71,0.6) 70%);
+    --color-menu-top-input:#432C4A;
+    --color-menu-top-input-text:#fff;
+    --color-menu-top-input-disable:rgba(0,0,0,0.4);
+
+    /* Scrollbar */
+    --color-scrollbar:#037ba3;
+    --color-scrollbar-hover:#037ba3;
+
+    /* Radius */
+    --radius-sidebar-title:20px;
+    --radius-meter-value:20px;
+    --radius-details-button:30px;
+
+    /* General */
+    --color-shadow: rgba(0,0,0,0.6);
+    --color-dark: #000;
+    --color-red: #bf0000;
+    --color-green: #60b30e;
+    --color-border-top:rgba(0,0,0,0.4);
+    --color-box-border:rgba(0,0,0,0.4);
+    --color-box-border-line:#465564;
+    --color-input:#465564;
+    --color-input-text:#fff;
+    --color-input-disable:rgba(0,0,0,0.4);
+}
+body, html { background-color:transparent!important;background-image:url('images/bg.jpg')!important; }
+table#maincont { background-image:url('images/bg.jpg'); }
+.catpanel { background-image:none!important; }
