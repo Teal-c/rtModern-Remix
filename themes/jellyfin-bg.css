@@ -53,14 +53,14 @@
     --color-meter-disk-value-text:#fff;
 
     /* Modal */
-    --color-modal:rgba(0,0,0,0.6);
+    --color-modal:rgba(0,0,0,0.9);
     --color-modal-text:#fff;
-    --color-modal-sidebar:rgba(0,0,0,0.4);
+    --color-modal-sidebar:rgba(0,0,0,0.8);
     --color-modal-sidebar-text:#fff;
     --color-modal-sidebar-text-hover:#03a6db;
     --color-modal-top:#037ba3;
     --color-modal-top-text:#fff;
-    --color-modal-fieldset:rgba(0,0,0,0.4);
+    --color-modal-fieldset:rgba(0,0,0,0.8);
 
     /* Contextual Menu */
     --color-contextual-menu:rgba(0,0,0,0.8);
