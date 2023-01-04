@@ -119,7 +119,10 @@ https://mondedie.fr/d/11214-tuto-installer-limage-docker-rutorrent-de-mondediefr
 
 ### Installation on crazymax/docker-rtorrent-rutorrent docker image 
 
-https://www.forum-nas.fr/threads/tuto-changer-le-th%C3%A8me-de-rutorrent.16968/
+https://hub.docker.com/r/crazymax/rtorrent-rutorrent
+
+https://www.forum-nas.fr/threads/tuto-installation-de-openvpn-jackett-prowlarr-rutorrent-qbittorrent-sonarr-radarr.16625/
 
 ### Install ruTorrent on Debian 11 (nginx and php-fpm) 
+
 https://mondedie.fr/d/11708-tuto-installer-rutorrent-sur-debian-11-nginx-php-fpm
