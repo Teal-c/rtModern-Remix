@@ -95,6 +95,6 @@
     --color-input-text:#fff;
     --color-input-disable:rgba(0,0,0,0.4);
 }
-body, html body { background-color:transparent!important;background-image:url('images/bg.jpg')!important;background-size: cover; }
-table#maincont { background-image:url('images/bg.jpg'); }
+body, html body { background-color:transparent!important;background-image:url('images/bg.jpg')!important;background-size: cover !important; }
+table#maincont { background-image:url('images/bg.jpg');background-size: cover !important; }
 .catpanel { background-image:none!important; }
