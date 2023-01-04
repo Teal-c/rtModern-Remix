@@ -111,7 +111,7 @@ All the color code is in custom.css, with examples in the "themes" folder.
 
 ---
 
-### ruTorrent Bonobox installation script
+### ruTorrent on mondedie/rutorrent docker image 
 
 https://hub.docker.com/r/mondedie/rutorrent
 
