@@ -3,9 +3,9 @@
  . | ruTorrent | version
 :---: | :---: | :---
 :heavy_check_mark: | [Novik/ruTorrent](https://github.com/Novik/ruTorrent) | v3.10, v4.0-beta.1
-:heavy_check_mark: | [exrat/rutorrent-bonobox](https://github.com/exrat/rutorrent-bonobox) | 2022/01/19
-:heavy_check_mark: | [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) | 3.10-0.9.8-0.13.8-r17
+:heavy_check_mark: | [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) | 3.10-0.9.8-0.13.8-r17 -> 4.0-0.9.8-0.13.8
 :heavy_check_mark: | [mondedie/rutorrent](https://github.com/mondediefr/docker-rutorrent) | 2022.06
+:heavy_check_mark: | [exrat/rutorrent-bonobox](https://github.com/exrat/rutorrent-bonobox) | 2022/01/19
 
 
 ## rtModern-Remix
@@ -21,7 +21,7 @@ git clone https://github.com/Teal-c/rtModern-Remix.git rtModern-Remix
 ```
 
 ```
-chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Remix
+chown -R www-data:www-data rtModern-Remix
 ```
 
 ## rtModern-Plex
@@ -41,7 +41,7 @@ cp rtModern-Plex-v2/themes/plex.css rtModern-Plex-v2/custom.css
 ```
 
 ```
-chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Plex-v2
+chown -R www-data:www-data rtModern-Plex-v2
 ```
 
 ## rtModern-Jellyfin
@@ -61,7 +61,7 @@ cp rtModern-Jellyfin-v2/themes/jellyfin.css rtModern-Jellyfin-v2/custom.css
 ```
 
 ```
-chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Jellyfin-v2
+chown -R www-data:www-data rtModern-Jellyfin-v2
 ```
 
 ## rtModern-Jellyfin-bg
@@ -81,7 +81,7 @@ cp rtModern-Jellyfin-v2-bg/themes/jellyfin-bg.css rtModern-Jellyfin-v2-bg/custom
 ```
 
 ```
-chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Jellyfin-v2-bg
+chown -R www-data:www-data rtModern-Jellyfin-v2-bg
 ```
 
 ## rtModern-LightPink
@@ -101,7 +101,7 @@ cp rtModern-LightPink/themes/light-pink.css rtModern-LightPink/custom.css
 ```
 
 ```
-chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-LightPink
+chown -R www-data:www-data rtModern-LightPink
 ```
 
 ### Customize the colors
