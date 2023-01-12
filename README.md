@@ -1,5 +1,9 @@
 # rtModern - ruTorrent themes
 
+Do the themes work with your installation?  
+In order to fill the table, give me your configurations in the [issues](https://github.com/Teal-c/rtModern-Remix/issues). 😘
+
+
  . | ruTorrent | version
 :---: | :---: | :---
 :heavy_check_mark: | [Novik/ruTorrent](https://github.com/Novik/ruTorrent) | v3.10, v4.0-beta.1
