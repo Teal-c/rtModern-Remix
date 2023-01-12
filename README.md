@@ -3,7 +3,7 @@
  . | ruTorrent | version
 :---: | :---: | :---
 :heavy_check_mark: | [Novik/ruTorrent](https://github.com/Novik/ruTorrent) | v3.10, v4.0-beta.1
-:heavy_check_mark: | [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) | 3.10-0.9.8-0.13.8-r17 -> 4.0-0.9.8-0.13.8
+:heavy_check_mark: | [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) | 3.10-0.9.8-0.13.8-r17 => 4.0-0.9.8-0.13.8
 :heavy_check_mark: | [mondedie/rutorrent](https://github.com/mondediefr/docker-rutorrent) | 2022.06
 :heavy_check_mark: | [exrat/rutorrent-bonobox](https://github.com/exrat/rutorrent-bonobox) | 2022/01/19
 
