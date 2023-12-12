@@ -4,13 +4,13 @@ Do the themes work with your installation?
 In order to fill the table, give me your configurations in the [issues](https://github.com/Teal-c/rtModern-Remix/issues). 😘
 
 
- | . | ruTorrent | Version |
- | :---: | :--- | :--- |
- | :heavy_check_mark: | [Novik/ruTorrent](https://github.com/Novik/ruTorrent) | v3.10, v4.0-beta.1 |
- | :heavy_check_mark: | [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) | 3.10-0.9.8-0.13.8-r17 => 4.0-0.9.8-0.13.8-r0 |
- | :heavy_check_mark: | [mondedie/rutorrent](https://github.com/mondediefr/docker-rutorrent)  | 2022.06 |
- | :heavy_check_mark: | [exrat/rutorrent-bonobox](https://github.com/exrat/rutorrent-bonobox) | 2022/01/19 |
- | :heavy_check_mark: |[k44sh/rutorrent](https://github.com/k44sh/rutorrent)| v4.0-r2 (Themes installed by default) |
+|         .          | ruTorrent                                                                                     | Version                                      |
+| :----------------: | :-------------------------------------------------------------------------------------------- | :------------------------------------------- |
+| :heavy_check_mark: | [Novik/ruTorrent](https://github.com/Novik/ruTorrent)                                         | v3.10, v4.0-beta.1                           |
+| :heavy_check_mark: | [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) | 3.10-0.9.8-0.13.8-r17 => 4.0-0.9.8-0.13.8-r0 |
+| :heavy_check_mark: | [mondedie/rutorrent](https://github.com/mondediefr/docker-rutorrent)                          | 2022.06                                      |
+| :heavy_check_mark: | [exrat/rutorrent-bonobox](https://github.com/exrat/rutorrent-bonobox)                         | 2022/01/19                                   |
+| :heavy_check_mark: | [cyberpnkz/rutorrent](https://github.com/cyberpnkz/rutorrent)                                 | v4.2.9 (Themes installed by default)         |
 
 
 ## rtModern-Remix
