@@ -9,7 +9,6 @@ In order to fill the table, give me your configurations in the [issues](https://
  | :heavy_check_mark: | [mondedie/rutorrent](https://github.com/mondediefr/docker-rutorrent)  | v4.3.0 (2024.04.26) |
  | :heavy_check_mark: | [Novik/ruTorrent](https://github.com/Novik/ruTorrent) | v3.10, v4.3.0 |
  | :heavy_check_mark: | [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) | v3.10, v4.3.0 |
- | :heavy_check_mark: | [exrat/rutorrent-bonobox](https://github.com/exrat/rutorrent-bonobox) | 2022/01/19 |
  | :heavy_check_mark: |[k44sh/rutorrent](https://github.com/k44sh/rutorrent)| v4.0-r2 |
 
 
@@ -96,18 +95,18 @@ All the color code is in custom.css, with examples in the "themes" folder.
 
 ---
 
-### ruTorrent on mondedie/rutorrent docker image 
+### Docker image : crazymax/docker-rtorrent-rutorrent 
 
-https://hub.docker.com/r/mondedie/rutorrent
+- https://hub.docker.com/r/crazymax/rtorrent-rutorrent
 
-https://mondedie.fr/d/11214-tuto-installer-limage-docker-rutorrent-de-mondediefr
+### Docker image : mondedie/rutorrent
 
-### Installation on crazymax/docker-rtorrent-rutorrent docker image 
+- https://hub.docker.com/r/mondedie/rutorrent
 
-https://hub.docker.com/r/crazymax/rtorrent-rutorrent
+- [FR] https://mondedie.fr/d/11214-tuto-installer-limage-docker-rutorrent-de-mondediefr
 
-https://www.forum-nas.fr/threads/tuto-installation-de-openvpn-jackett-prowlarr-rutorrent-qbittorrent-sonarr-radarr.16625/
 
-### Install ruTorrent on Debian 11 (nginx and php-fpm) 
 
-https://mondedie.fr/d/11708-tuto-installer-rutorrent-sur-debian-11-nginx-php-fpm
+### Installation of OpenVPN, Jackett, Prowlarr, rutorrent, Qbittorrent, Sonarr, Radarr and Lidarr in Docker​
+
+- [FR] https://www.forum-nas.fr/threads/tuto-installation-de-openvpn-jackett-prowlarr-rutorrent-qbittorrent-sonarr-radarr.16625/
