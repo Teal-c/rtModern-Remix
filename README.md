@@ -6,11 +6,11 @@ In order to fill the table, give me your configurations in the [issues](https://
 
  | . | ruTorrent | Version |
  | :---: | :--- | :--- |
- | :heavy_check_mark: | [mondedie/rutorrent](https://github.com/mondediefr/docker-rutorrent)  | 2024.04.26 |
+ | :heavy_check_mark: | [mondedie/rutorrent](https://github.com/mondediefr/docker-rutorrent)  | v4.3.0 (2024.04.26) |
  | :heavy_check_mark: | [Novik/ruTorrent](https://github.com/Novik/ruTorrent) | v3.10, v4.3.0 |
- | :heavy_check_mark: | [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) | 3.10-0.9.8-0.13.8-r17 => 4.0-0.9.8-0.13.8-r0 |
+ | :heavy_check_mark: | [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) | v3.10, v4.3.0 |
  | :heavy_check_mark: | [exrat/rutorrent-bonobox](https://github.com/exrat/rutorrent-bonobox) | 2022/01/19 |
- | :heavy_check_mark: |[k44sh/rutorrent](https://github.com/k44sh/rutorrent)| v4.0-r2 (Themes installed by default) |
+ | :heavy_check_mark: |[k44sh/rutorrent](https://github.com/k44sh/rutorrent)| v4.0-r2 |
 
 
 ## rtModern-Remix
