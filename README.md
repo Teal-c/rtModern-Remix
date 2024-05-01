@@ -95,7 +95,7 @@ All the color code is in custom.css, with examples in the "themes" folder.
 
 ---
 
-### Docker image : crazymax/docker-rtorrent-rutorrent 
+### Docker image : crazymax/rtorrent-rutorrent
 
 - https://hub.docker.com/r/crazymax/rtorrent-rutorrent
 
