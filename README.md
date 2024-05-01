@@ -8,8 +8,8 @@ In order to fill the table, give me your configurations in the [issues](https://
  | :---: | :--- | :--- |
  | :heavy_check_mark: | [mondedie/rutorrent](https://github.com/mondediefr/docker-rutorrent)  | v4.3.0 (2024.04.26) |
  | :heavy_check_mark: | [Novik/ruTorrent](https://github.com/Novik/ruTorrent) | v3.10, v4.3.0 |
- | :heavy_check_mark: | [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) | v3.10, v4.3.0 |
- | :heavy_check_mark: |[k44sh/rutorrent](https://github.com/k44sh/rutorrent)| v4.0-r2 |
+ | :heavy_check_mark: | [crazymax/rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) | v3.10, v4.3.0 |
+ | :heavy_check_mark: | [k44sh/rutorrent](https://github.com/k44sh/rutorrent) | v4.0-r2 |
 
 
 ## rtModern-Remix
